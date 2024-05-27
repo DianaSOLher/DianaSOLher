@@ -1,4 +1,5 @@
-![BannerVSH](https://github.com/DianaSOLher/DianaSOLher/assets/69129000/5c989b61-5af0-4825-b100-da8ed49d7316)
+![BannerViri2](https://github.com/DianaSOLher/DianaSOLher/assets/69129000/76b69d9f-ee53-4251-9149-d4e39bb138ca)
+
 
 ## Hi there 👋
 
