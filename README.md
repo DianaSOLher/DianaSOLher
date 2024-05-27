@@ -1,3 +1,5 @@
+<img src="https://imgur.com/a/banner-github-dianasolher-p8jwNIQ">
+
 ## Hi there 👋
 
 <!--
