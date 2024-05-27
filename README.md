@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/banner-github-dianasolher-p8jwNIQ">
+![BannerViri](https://github.com/DianaSOLher/DianaSOLher/assets/69129000/d228440a-97c2-4b68-91c7-e0de86704433)
 
 ## Hi there 👋
 
