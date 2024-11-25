@@ -1,6 +1,6 @@
 ![Banner2](https://github.com/DianaSOLher/DianaSOLher/blob/2a8dd243f349821aeccd1cd69b2658ecc2d0022c/%26brie.png)
 
-## Hi there 👋
+## Stack 
 
 <!--
 **DianaSOLher/DianaSOLher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
