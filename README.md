@@ -1,5 +1,4 @@
-![BannerViri](https://github.com/DianaSOLher/DianaSOLher/blob/bdd2c09fe8066b4cb29088039a4c9da379c37f77/banner.png)
-
+![Banner2](https://github.com/DianaSOLher/DianaSOLher/blob/2a8dd243f349821aeccd1cd69b2658ecc2d0022c/%26brie.png)
 
 ## Hi there 👋
 
