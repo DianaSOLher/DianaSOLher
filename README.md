@@ -14,8 +14,7 @@ Fusion360
 
 
 ## 
-![ScrumMaster](https://img.shields.io/badge/Scrum%20Master-8B008B?style=for-the-badge) ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-483D8B?style=for-the-badge) 
-![SAP PM](https://img.shields.io/badge/SAP_PM-808000?style=for-the-badge)
+![ScrumMaster](https://img.shields.io/badge/Scrum%20Master-8B008B?style=for-the-badge) ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-483D8B?style=for-the-badge) ![SAP PM](https://img.shields.io/badge/SAP_PM-808000?style=for-the-badge)
 
 
 <!--
