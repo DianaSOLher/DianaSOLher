@@ -4,6 +4,15 @@
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge)
 
+![Static Badge](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/C%2B%2B-6495ED?style=for-the-badge)
+
+## 
+![Static Badge](https://img.shields.io/badge/Scrum%20Master-8B008B?style=for-the-badge)
+
 
 <!--
 **DianaSOLher/DianaSOLher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
