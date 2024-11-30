@@ -2,7 +2,8 @@
 
 ## Stack 
 
-![Javascript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-6495ED?style=for-the-badge) ![C](https://img.shields.io/badge/C-000080?style=for-the-badge) ![DevExpress](https://img.shields.io/badge/DevExpress--C#-FF8C00?style=for-the-badge) ![Java](https://img.shields.io/badge/Java_21-191970?style=for-the-badge) 
+![Javascript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-6495ED?style=for-the-badge) ![C](https://img.shields.io/badge/C-000080?style=for-the-badge) ![Java](https://img.shields.io/badge/Java_21-191970?style=for-the-badge) ![DevExpress](https://img.shields.io/badge/Devexpress--C%23-FF8C00?style=for-the-badge)
+
 <!--
 Springboot
 Angular 
