@@ -2,12 +2,14 @@
 
 ## Stack 
 
-![Javascript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-6495ED?style=for-the-badge) ![DevExpress](https://img.shields.io/badge/DevExpress-FF8C00?style=for-the-badge) 
+![Javascript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-6495ED?style=for-the-badge) ![DevExpress](https://img.shields.io/badge/DevExpress-FF8C00?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-191970?style=for-the-badge) ![C](https://img.shields.io/badge/C-000080?style=for-the-badge)
+
+
 
 
 
 ## 
-![ScrumMaster](https://img.shields.io/badge/Scrum%20Master-8B008B?style=for-the-badge) ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-483D8B?style=for-the-badge)
+![ScrumMaster](https://img.shields.io/badge/Scrum%20Master-8B008B?style=for-the-badge) ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-483D8B?style=for-the-badge) 
 
 
 <!--
