@@ -2,10 +2,10 @@
 
 ## Stack 
 
-![Static Badge](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/C%2B%2B-6495ED?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-6495ED?style=for-the-badge)
 
 ## 
-![Static Badge](https://img.shields.io/badge/Scrum%20Master-8B008B?style=for-the-badge)
+![ScrumMaster](https://img.shields.io/badge/Scrum%20Master-8B008B?style=for-the-badge)
 
 
 <!--
